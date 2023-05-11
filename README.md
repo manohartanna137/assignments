@@ -5,7 +5,7 @@
    - commited changes and pushed it to the remote.
 - Checked whether commit changes are happened or not by using gitlog.
  - Commited changes in the remote repository and pushed it to the local.
- **Question 2**
+ <br>**Question 2**</br>
  - Created a new branch and named it as feature_branch.
  - Added code to the feature_branch and checked whether the code is reflected in main branch or not.
  - Pushed the feature_branch to the git repository.
