@@ -27,6 +27,7 @@ n=int(input())
 for i in range(1,N):
   print('* ' * i)
 
+//changes added
 for i in range(1,N):
   print('* ' * i)
 
