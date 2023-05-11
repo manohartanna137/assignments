@@ -1,4 +1,4 @@
-   # assignments #
+   # Assignments #
 **Question 1**
    - I have created an repository named assignments.
    - Cloned it with the local.
