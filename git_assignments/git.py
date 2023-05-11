@@ -20,3 +20,5 @@ while c<=n:
   sum_=sum_+c
   c=c+1
 print(sum_)
+
+print("Today is thursday")
