@@ -10,6 +10,7 @@ while c<(len(a)):
   while c < n:
     print('*' * n)
     c = c + 1
+<<<<<<< HEAD
 print("hi")
 print("hello")
 
@@ -31,3 +32,6 @@ for i in range(1,N):
 for i in range(1,N):
   print('* ' * i)
 
+=======
+    print("Hello good morning")
+>>>>>>> 2ab177c (Update git.py)
