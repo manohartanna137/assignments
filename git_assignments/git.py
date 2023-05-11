@@ -12,3 +12,11 @@ while c<(len(a)):
     c = c + 1
 print("hi")
 print("hello")
+
+n= int(input())
+c=0
+sum_=0
+while c<=n:
+  sum_=sum_+c
+  c=c+1
+print(sum_)
