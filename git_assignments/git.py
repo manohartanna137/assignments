@@ -22,3 +22,11 @@ while c<=n:
 print(sum_)
 
 print("Today is thursday")
+
+n=int(input())
+for i in range(1,N):
+  print('* ' * i)
+
+for i in range(1,N):
+  print('* ' * i)
+
