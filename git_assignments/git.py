@@ -10,3 +10,4 @@ while c<(len(a)):
   while c < n:
     print('*' * n)
     c = c + 1
+print("hi")
