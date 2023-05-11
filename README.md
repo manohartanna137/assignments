@@ -1,5 +1,5 @@
    # Assignments #
-     **Question 1**
+   **Question 1**
    - I have created an repository named assignments.
    - Cloned it with the local.
    - commited changes and pushed it to the remote.
@@ -22,7 +22,9 @@
  - Pushed the feature_branch to the git repository.
  - After that mergered the feature_branch with main branch
  - After that used the cherry pick command to use the required code for the main branch.
- 
+<br>**Question 5**</br> 
+- Performed the revert command
+- Checked with the git log command whether the committed the changes or not.
 
 
 
