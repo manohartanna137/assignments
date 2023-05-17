@@ -1,10 +1,11 @@
-def merge_tools(strings, k):
-    for i in range(0, len(strings), k):
+def merge_the_tools(string, k):
+    list1 = []
+    for i in range(0, len(string), k):
         sub_string = ''
         for j in range(k):
-            if strings[i + j] not in sub_string:
-                sub_string = sub_string + strings[i + j]
+            if string[i + j] not in sub_string:
+                sub_string = sub_string + string[i + j]
             else:
                 continue
-        print(sub_string)
-    return sub_string
+        list1.append(sub_string)
+    return list1
