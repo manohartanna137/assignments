@@ -1,3 +1,5 @@
 from merge_the_tools.core.utils import *
-merge_tools("abcaadbdd", 3)
+merge_the_tools("AABCAAADA", 3)
+
+
 
